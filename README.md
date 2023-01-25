@@ -27,7 +27,8 @@ Critical Errors (ie. Completely affect core functionality of server) count as 5 
 
 ### Issue Eligibility Criteria
 1. Issue must not be related to a mobile design flaw.
-2. TBD
+2. If it is a bad gateway, it is not counted unless it lasts more then 10 minutes
+
 ## Endpoint List
 ```
 legal
