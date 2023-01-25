@@ -26,6 +26,7 @@ Critical Errors (ie. Completely affect core functionality of server) count as 5 
 2. Members part of the project group
 
 ## Endpoint List
+```
 legal
 vault
 vault/cards
@@ -46,4 +47,4 @@ vault/password/<id:str>
 vault/note/<id:str>
 vault/delete/<id:str>
 vault/sharePassword/<id:str>
-static/<__file_uri__:path>
+```
