@@ -25,6 +25,9 @@ Critical Errors (ie. Completely affect core functionality of server) count as 5 
 > IngeniousApplications Gaming : FreeCityMC
 2. Members part of the project group
 
+### Issue Eligibility Criteria
+1. Issue must not be related to a mobile design flaw.
+2. TBD
 ## Endpoint List
 ```
 legal
