@@ -17,6 +17,7 @@ Second to get **30** valid errors gets $5
 Third to get **30** valid errors gets $1
 
 Critical Errors (ie. Completely affect core functionality of server) count as 5 valid errors
+If you manage to retrieve the vault contents of another user, that is instantly 30 valid errors.
 
 ## Eligibility
 1. Members must be part of ANY of the following IA-based Projects
